@@ -1,0 +1,14 @@
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\bin\Debug\net10.0\transactionApp.exe
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\bin\Debug\net10.0\transactionApp.deps.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\bin\Debug\net10.0\transactionApp.runtimeconfig.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\bin\Debug\net10.0\transactionApp.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\bin\Debug\net10.0\transactionApp.pdb
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.AssemblyInfoInputs.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.AssemblyInfo.cs
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.csproj.CoreCompileInputs.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\refint\transactionApp.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.pdb
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\transactionApp.genruntimeconfig.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\transactionApp\obj\Debug\net10.0\ref\transactionApp.dll
