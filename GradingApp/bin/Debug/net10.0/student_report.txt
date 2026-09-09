@@ -1,0 +1,5 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+John Mensah (ID: 102): Score = 76, Grade = B
+Mary Adams (ID: 103): Score = 65, Grade = C
+David Brown (ID: 104): Score = 55, Grade = D
+Peter Jones (ID: 105): Score = 42, Grade = F

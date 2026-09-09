@@ -1,0 +1,15 @@
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\bin\Debug\net10.0\GradingApp.exe
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\bin\Debug\net10.0\GradingApp.deps.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\bin\Debug\net10.0\GradingApp.runtimeconfig.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\bin\Debug\net10.0\GradingApp.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\bin\Debug\net10.0\GradingApp.pdb
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.AssemblyInfoInputs.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.AssemblyInfo.cs
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.csproj.CoreCompileInputs.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.sourcelink.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\refint\GradingApp.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.pdb
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\GradingApp.genruntimeconfig.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\GradingApp\obj\Debug\net10.0\ref\GradingApp.dll

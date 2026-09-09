@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="GradingApp/GradingApp.csproj" />
   <Project Path="healthcareSystem/healthcareSystem.csproj" />
+  <Project Path="inventoryRecord/inventoryRecord.csproj" />
   <Project Path="markerApp/markerApp.csproj" />
   <Project Path="transactionApp/transactionApp.csproj" />
 </Solution>

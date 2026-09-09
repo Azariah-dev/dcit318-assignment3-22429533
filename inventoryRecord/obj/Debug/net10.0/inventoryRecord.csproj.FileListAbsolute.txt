@@ -1,0 +1,15 @@
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\bin\Debug\net10.0\inventoryRecord.exe
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\bin\Debug\net10.0\inventoryRecord.deps.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\bin\Debug\net10.0\inventoryRecord.runtimeconfig.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\bin\Debug\net10.0\inventoryRecord.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\bin\Debug\net10.0\inventoryRecord.pdb
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.AssemblyInfoInputs.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.AssemblyInfo.cs
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.csproj.CoreCompileInputs.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.sourcelink.json
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\refint\inventoryRecord.dll
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.pdb
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\inventoryRecord.genruntimeconfig.cache
+C:\Users\De_Salvs\Documents\GitHub\dcit318-assignment3-22429533\inventoryRecord\obj\Debug\net10.0\ref\inventoryRecord.dll
