@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("markerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e62edd2a7729f8c4b1a5534f8c9a79d404d31ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9f4a0af82c6a09051dd7a29d54a2468db0c08cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("markerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("markerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
